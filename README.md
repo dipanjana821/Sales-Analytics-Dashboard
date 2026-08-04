@@ -25,7 +25,3 @@ Built in Power BI with DAX measures for Total Sales, AOV, and Unique Customers,
 connected live to BigQuery. Includes monthly trend, regional distribution,
 top products, and category breakdown visuals.
 
-## Key insight
-[Write 1-2 sentences here — e.g. "The South region generates roughly 40% of
-total revenue despite having a similar number of stores to other regions,
-suggesting an opportunity to investigate staffing or inventory allocation there."]
