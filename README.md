@@ -19,7 +19,7 @@ See [`bigquery_queries.sql`]([bigquery_queries.sql](https://github.com/dipanjana
 - Month-over-month growth using a `LAG()` window function
 
 ## Dashboard
-![Dashboard screenshot]([dashboard_screenshot.png](https://github.com/dipanjana821/sales-analytics-dashboard/blob/main/SalesDashboard_screenshot.png))
+![Dashboard screenshot](SalesDashboard_screenshot.png)
 
 Built in Power BI with DAX measures for Total Sales, AOV, and Unique Customers,
 connected live to BigQuery. Includes monthly trend, regional distribution,
