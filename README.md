@@ -12,14 +12,14 @@ Order-level sales analytics project built using Google BigQuery, Google Sheets, 
 - `order_items.csv` — 9,852 line items, joined to orders on `order_id`
 
 ## SQL analysis
-See [`bigquery_queries.sql`](bigquery_queries.sql) for the full set of queries, including:
+See [`bigquery_queries.sql`]([bigquery_queries.sql](https://github.com/dipanjana821/sales-analytics-dashboard/blob/main/bigquery_queries.sql)) for the full set of queries, including:
 - Total sales, average order value, unique customers
 - Regional and monthly revenue breakdowns
 - Top-selling products by revenue
 - Month-over-month growth using a `LAG()` window function
 
 ## Dashboard
-![Dashboard screenshot](dashboard_screenshot.png)
+![Dashboard screenshot]([dashboard_screenshot.png](https://github.com/dipanjana821/sales-analytics-dashboard/blob/main/SalesDashboard_screenshot.png))
 
 Built in Power BI with DAX measures for Total Sales, AOV, and Unique Customers,
 connected live to BigQuery. Includes monthly trend, regional distribution,
