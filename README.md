@@ -20,6 +20,7 @@ See [`bigquery_queries.sql`](bigquery_queries.sql) for the full set of queries, 
 
 ## Dashboard
 Dashboard screenshot (Sales Tracker Dashboard.png)
+
 <img width="594" height="335" alt="Sales Tracker Dashboard" src="https://github.com/user-attachments/assets/2e9d0551-058d-4e15-bb77-3f40c0f13363" />
 
 Built in Power BI with DAX measures for Total Sales, AOV, and Unique Customers,
